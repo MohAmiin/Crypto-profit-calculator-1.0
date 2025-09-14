@@ -322,17 +322,17 @@
                 
                 <div class="input-group">
                     <label for="investment"><i class="fas fa-dollar-sign"></i> Initial Investment ($)</label>
-                    <input type="number" id="investment" placeholder="Enter amount in USD" value="1000">
+                    <input type="number" id="investment" placeholder="Enter amount in USD" value="">
                 </div>
                 
                 <div class="input-group">
                     <label for="buyPrice"><i class="fas fa-arrow-down"></i> Buy Price ($)</label>
-                    <input type="number" id="buyPrice" placeholder="Price per coin when buying" value="50000">
+                    <input type="number" id="buyPrice" placeholder="Price per coin when buying" value="">
                 </div>
                 
                 <div class="input-group">
                     <label for="sellPrice"><i class="fas fa-arrow-up"></i> Sell Price ($)</label>
-                    <input type="number" id="sellPrice" placeholder="Price per coin when selling" value="60000">
+                    <input type="number" id="sellPrice" placeholder="Price per coin when selling" value="">
                 </div>
                 
                 <div class="input-group">
